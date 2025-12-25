@@ -8,7 +8,7 @@ This project focuses on detecting fake news articles using classical machine lea
 
 and natural language processing techniques.
 
---
+
 
 ## Dataset
 
@@ -16,7 +16,7 @@ and natural language processing techniques.
 
 \- Text-based content only
 
---
+
 
 ## Techniques Used
 
@@ -34,7 +34,7 @@ and natural language processing techniques.
 
 \- XGBoost
 
---
+
 
 ## Evaluation Metrics
 
@@ -48,7 +48,7 @@ and natural language processing techniques.
 
 \- ROC AUC
 
---
+
 
 ## Results
 
@@ -56,7 +56,7 @@ Logistic Regression and SVM achieved the best performance with ROC AUC close to 
 
 
 
-\## How to Run
+## How to Run
 
 Open the notebook in Google Colab or Jupyter Notebook and run cells sequentially.
 
