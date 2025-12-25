@@ -1,24 +1,24 @@
-\# Fake News Detection using Machine Learning
+# Fake News Detection using Machine Learning
 
+---
 
-
-\## Overview
+## Overview
 
 This project focuses on detecting fake news articles using classical machine learning
 
 and natural language processing techniques.
 
+--
 
-
-\## Dataset
+## Dataset
 
 \- Labeled news articles (REAL / FAKE)
 
 \- Text-based content only
 
+--
 
-
-\## Techniques Used
+## Techniques Used
 
 \- TF-IDF (unigrams + bigrams)
 
@@ -34,9 +34,9 @@ and natural language processing techniques.
 
 \- XGBoost
 
+--
 
-
-\## Evaluation Metrics
+## Evaluation Metrics
 
 \- Accuracy
 
@@ -48,9 +48,9 @@ and natural language processing techniques.
 
 \- ROC AUC
 
+--
 
-
-\## Results
+## Results
 
 Logistic Regression and SVM achieved the best performance with ROC AUC close to 0.98.
 
