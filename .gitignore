@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+
+# Reports (academic submissions)
+*.pdf
+*.doc
+*.docx
+
+# Screenshots / images
+*.png
+
+
